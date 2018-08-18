@@ -1,0 +1,50 @@
+
+.btn-primary {
+  background-color: #7c429cf7;;
+  border-color: #7c429cf7;;
+}
+.btn-primary:hover {
+  background-color:#7c429cf7;;
+  border-color: #7c429cf7;;
+
+}
+.btn-primary:focus {
+  background-color: #7c429cf7;;
+  border-color: #7c429cf7;;
+}
+.btn-primary:active {
+  background-color: #7c429cf7;;
+  border-color: #7c429cf7;;
+  box-shadow: 0 0 0 0.2rem #7c429cf7;;
+}
+.btn-primary:not(:disabled):not(.disabled):active {
+  background-color: #7c429cf7;;
+  border-color: #7c429cf7;;
+}
+
+.list-group-item.active {
+  background-color: #7c429cf7;
+  border-color: #7c429cf7;
+}
+a{
+  color: #7c429cf7;
+}
+a:hover {
+  color: #7c429cf7;
+}
+
+@media (min-width: 768px) {
+  .invisible-image {
+    display: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .invisible-image {
+    display: none;
+  }
+  .invisible-text {
+    display: none;
+  }
+}
+
