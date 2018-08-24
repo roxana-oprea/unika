@@ -3985,7 +3985,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #4E5D6C;
+  border-color: #e9ecef #e9ecef #e9ecef;
 }
 
 .nav-tabs .nav-link.disabled {
@@ -3998,7 +3998,7 @@ input[type="button"].btn-block {
 .nav-tabs .nav-item.show .nav-link {
   color: #EBEBEB;
   background-color: #2B3E50;
-  border-color: #dee2e6 #dee2e6 #2B3E50;
+  border-color: #dee2e6 #dee2e6 #dee2e6;
 }
 
 .nav-tabs .dropdown-menu {
