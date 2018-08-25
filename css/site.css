@@ -46,3 +46,23 @@ a:hover {
 .image-blog {
   width: 100%;
 }
+
+.page-title {
+  position: absolute;
+  width: 25%;
+  text-align: center;
+  padding: 5px;
+  background: rgba(0, 0, 0, 0.6);
+  margin: auto;
+  font-size: 1.5rem;
+  transition: font-size .1s;
+}
+
+.page-title:hover {
+  font-size: 1.7rem;
+}
+
+.map {
+  width: 100%;
+  height: 600px;
+}
