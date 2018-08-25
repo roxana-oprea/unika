@@ -32,13 +32,17 @@
 }
 
 a:hover {
-  color: #DF691A;
+  color: #0ed0a1;
 }
 
 .list-group-item-action {
-  color: #DF691A;
+  color: #0ed0a1;
 }
 
 .size-icon {
   font-size: 2rem;
+}
+
+.image-blog {
+  width: 100%;
 }
